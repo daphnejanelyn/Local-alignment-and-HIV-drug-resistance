@@ -1,0 +1,14 @@
+*.fasta
+*.fastq
+*.train
+*.bck
+*.prj
+*.des
+*.sds
+*.ssp
+*.suf
+*.tis
+*.gb
+*.maf
+*.gp
+.ipynb_checkpoints
